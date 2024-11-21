@@ -6,7 +6,7 @@
 <br />
 
 <h2>Diagram:</h2>
-<p align="center"><img width="1440" alt="Screenshot 2024-11-20 at 3 01 57 PM" src="https://github.com/user-attachments/assets/9241c85e-524a-4fd1-a2f2-1469e7ec72f4"></p>
+<p align="center"><img width="1440" alt="Screenshot 2024-11-20 at 3 01 57 PM" src="https://github.com/user-attachments/assets/fff79c8e-6df4-4904-b3d6-a2337ef8f32a"></p>
 <br>
 
 <h2>Features</h2>
