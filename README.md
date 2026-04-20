@@ -1,5 +1,5 @@
-<h1>Flask App on Docker and Azure Kubernetes Service (AKS)</h1>
-<br />
+<h1>Flask Web App Deployment with Docker & Azure Kubernetes (AKS)</h1>
+<br/>
 
 <h2>Project Overview</h2>
 <p>This project demonstrates how to containerize a Python Flask application using Docker and deploy it to Azure Kubernetes Service (AKS). The application is exposed using a LoadBalancer, making it accessible via an external IP.</p>
